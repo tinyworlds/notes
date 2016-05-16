@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-27T10:15:21+02:00
+
+====== 3D Printing ======
+Created Mittwoch 27 April 2016
+
+* 1st step of digitalisation was about turning things into data
+* 2nd phase - creating individual copies of a general concept - 3D printing turns data back into things
+
+===== Technology Examples =====
+* hearing aids are nowadays mostly 3D printed, based on a scan of your ear
+* 3D printed electro car, house, bridge, room
+{{../Michael-Hansmeyer3.jpg}}
+//3D printed room by Michael Hansmeyer and Benjamin Dillenburger//
+* architectural models
+* there is a 3D printer on the ISS!
+{{../NASA-Scott-Kelly-ISS-11042015.jpg}}
+//View from the ISS as photographed by astronaut Scott Kelly//
+
+* there are 3D food printers
+{{../edible_growth.jpg}}
+//A "fully 3D printed edible eco-system" by Chloe Rutzerveld//
+
+* 3D printed body parts
+* 3D printed weapons
+
+
+===== Historical Perspective =====
+Digital fabrication marks the beginning of a new phase in the history of economy and culture
+* in the [[../Modern_Media_History/Digital_Age.txt|digital age]] people work dezentralised, from home with automated software
+* ways of communication and transportation over long distances merge (transfer goods via the Internet)
+
+===== Research and Fantasy =====
+* an universal digital fabricator, much like when the first PCs where created as universal home-machines
+* print solar-cells on pretty much everything
+* 4D printing: things assembles themself and/or modify themselves on command or in a selfregulatory way
+* 3D printing allows for more complex objects for the same amount of work ("Complexity for Free")

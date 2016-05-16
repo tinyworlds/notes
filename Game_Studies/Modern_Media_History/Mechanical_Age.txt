@@ -1,0 +1,62 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-27T12:11:24+02:00
+
+====== Mechanical Age ======
+Created Mittwoch 27 April 2016
+//Renaissance to Enlightement//
+
+New technology: **Synthesis** of Medieval **Practices** (Craft knowledge) and Ancient **Theory **(Scholarship, Science)
+New everyday life: **Individualization** (City, Personal Time)
+New classes: **Middle classes **(Independent craftsmen & merchants)
+
+===== Media =====
+
+==== Stage ====
+* **craft** production
+* integration of advanced **mechanical** technology
+* integration of advanced artistic practices (e.g. perspective painting)
+* **clockwork** as model of production
+* stage as media of production and distribution, not storage
+{{../../stage.jpg}}
+
+==== Camera Obscura ====
+* mechanization of image **production**
+{{../../obscura.jpg}}
+* predecessor of film/ photography
+
+
+==== Laterna Magica ====
+* mechanization of image **display**
+* images projected on a wall
+{{../../laterna_magica.jpg}}
+* predecessor of cinema/ watching movies
+
+Camera Obscura + Laterna Magica: mechanical anticipation of cinema
+
+==== New images and views ====
+* standardized views of uniform written matter (books -> typeface)
+* augmented view of reality (telescope, microscope)
+* **perspectival** views of images, theatre, projected realities (camera obscura) and projected images (peep-box, laterna magica)
+
+
+"The **rationalization of the picture** achieved with perspective became the model for the **rationalization of the world picture**."
+- Frank Buttner, Rationalisierung der Mimesis
+
+
+===== Visual Arts =====
+
+==== Audiovisual Art Form : Stage Play ====
+• Socio-Cultural Function: The Defining Medium of the Age Provides Audiovisual **Role Models**
+• Artistic Practice: **Craftwork**
+• Aesthetic Expression: Representation of “Whole” **Craftsmen**
+• Drama as Form: Punctual Appearances and Departures Stage the Working Life of the New Middle Classes under the Rule of
+**Mechanically Measured Personal Time**
+• Form Element Stage Actor: Personification / Embodiment of Modern **Individuation**
+
+{{../../mechanical_age.jpg}}
+
+
+**Authorship/Copyright:**
+- no authorship - god is the maker
+- John Locke: Theory of property: "spending time and energy in something, makes the thing something of the spender" (gains copyright)

@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-05-01T15:36:41+02:00
+
+====== Film Noir ======
+Created Sonntag 01 Mai 2016
+
+===== Background =====
+* Expressionism: modernist movement at the beginning of the 20th century
+Artists sought to express emotional experience rather than physical reality
+* "hard-boiled" american crime literature 
+
+
+===== Visual Stylistics =====
+* dark and expressive style
+* use of flashback and voice-over
+* urban, industrial locations, which stand symbolic for immorality, pessimism and the characters ambivalence (bars, night clubs, factory buildings, casinos)
+{{../noir5.jpg}}
+* low-key lightening
+* play with strong bright-dark contrast/ distorted shadows
+{{../noir1.jpg}}
+* methods that distort scene (e.g. distorted shadows, extreme/unusual camera positions)
+* "Venetian blinds" as example for play with strong bright-dark contrast
+
+
+===== Narrative =====
+* crime as central theme
+* „Psychologization“ of Crime
+* Characteristic investigative narrative structure (i.e. detective inspecting crime)
+* hero/ anti-hero has often an immoral personality/habits & vague motives
+{{../noir4.jpg}}
+* hero is feeling existentially trapped
+{{../noir2.jpg}}
+* pessimistic worldview; world without morality
+* story & characters full of double meanings
+* subjective view of the world
+* femme fatale as symbol for an irresistibly powerful force which generates sexual intensities that cannot be mastered
+{{../noir3.jpg}}

@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-14T23:17:18+02:00
+
+====== Game History ======
+Created Donnerstag 14 April 2016
+
+unvollständig/möglichweise fehlerhaft
+
+===== Procedural Turn =====
+since the 1950s
+-> digital games afford a new representational mode
+- the construction of dynamic models of real world processes
+
+-> videogames core representational mode is procedurality
+-> procedural representation requires inscription in a medium that merely describes them
+-> this ability to execute a series of rules is unique for computers
+
+===== Hyperepic Turn =====
+since the 1970s
+-> afford games interactive with multi-linear storylines & open story worlds that can be roamed more or less freely
+
+===== Hyperrealistic Turn =====
+since the 1990s
+-> digital games afford the real-time and interactive production of photorealistic images without indexicality
+

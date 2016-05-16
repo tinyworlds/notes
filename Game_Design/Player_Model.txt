@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-26T09:54:25+02:00
+
+====== Player Model ======
+Created Dienstag 26 April 2016
+
+improve game experience by modelizing the player
+(very messy notes)
+
+===== Player Motivation =====
+{{../deci_diagramm.jpg}}
+//a possible way to differentiate short, medium and long term player behavior//
+**[really replace pic with better understandable one from slides]**
+
+{{../chart.png}}
+//different play styles or personality models - //**TODO:**// select personality models and create little entries on them//
+
+
+another example: creating a profile of an exemplary player to design the game around
+"we see the world a bit orange when we become very old" ???

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-05-03T17:57:24+02:00
+
+====== Making Sense of Games ======
+Created Dienstag 03 Mai 2016
+
+Speaker: Espen Aarseth (aarseth@itu.dk)
+
+* idea: there are games and story-games/ ludo-narrative hybrids
+* games are not narratives, but rather create experiences/memories the player may use to tell their own stories
+
+
+* "Tellability Equation" model: Youtube views/Global copies sold(in Mio)=Tellability factor
+-> how much people want to tell their own story (about the game)
+-> probably unprecise model -  overly simplified - but may still turn out useful

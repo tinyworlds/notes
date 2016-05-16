@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-27T12:12:19+02:00
+
+====== Digital Age ======
+Created Mittwoch 27 April 2016
+
+===== Digital Age =====
+Postmodernity to Present
+-> digital work requires autonomous, creative, playful behaviour
+
+**Defining Media: ** Digital Games
+-> systematic, procedural, interactive, transmedial, global
+-> fluid/non-linear
+
+**Defining Class: **(Digital) Knowledge Workers
+-> manipulate software and their virtual symbols
+
+**Important Inventions:**
+* software-based computer systems
+* global networks/WWW
+
+**Authorship/copyright:**
+- see Industrial Age
+- fall of the author, rise of the audience (creative participation, read-write culture)

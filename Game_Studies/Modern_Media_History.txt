@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-14T22:14:31+02:00
+
+====== Modern Media History ======
+Created Donnerstag 14 April 2016
+
+**TODO**: Copy overview of Audio/Video artforms from slides (yellow, orange, red table)

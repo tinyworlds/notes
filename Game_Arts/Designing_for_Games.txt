@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-05-04T14:06:21+02:00
+
+====== Designing for Games ======
+Created Mittwoch 04 Mai 2016
+
+Björn suggests: watch the Dragon speech! ("one of most inspiring talks about Game Design")
+https://www.youtube.com/watch?v=kaBte1cBi5U
+
+* in **smaller** studios you have mostly **generalist** artists, in **big** companies very **specialized** people
+* Björn suggests: going broad in study first is best; I agree, have a lot more freedom (in job and art) and better able to adapt to change; specialize on your qualities
+* Björn says: traditional 2D animation is really good to learn how to do good animations in general
+* interesting job opportunity for 3d artists: go in product development ([[../../Game_Studies/3D_Printing.txt|3d printing]])
+
+==== 3D Environment Artist ====
+* do understand what "space" means/ have good spatial understanding
+* collection of spaces in mind (how they feel like) - a mind library of how places feel and look
+* do **field research** to understand how a place **feels** (smells, sounds, looks ...)
+-> create a toolset to collect memories and experiences of places & how they work
+	-> maybe sketchbook & netbook for field research
+	-> experience and reading to understand how things work
+	-> a wiki would work pretty well to bring it all together
+see: [[../The_Creative_Process.txt|The Creative Process]]
+
+* understanding of how light physically works can increase quality of how you light your worlds; next to good understanding of color

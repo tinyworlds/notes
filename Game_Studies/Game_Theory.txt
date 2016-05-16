@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-14T23:00:59+02:00
+
+====== Game Theory ======
+Created Donnerstag 14 April 2016
+
+aka Game Studies - a discipline that deals with the critical analysis of games.
+
+At the moment there are 3 major perspectives in Game Studies:
+* Game Designers
+* Social Sciences
+* Human Sciences
+
+===== Game Design =====
+-> analysis and explanation of unconscious work
+-> Theory of the 1st order - by the practitioners
+-> development of terminology & "best practices"
+-> How to make a good game?
+
+Problem: artistical creation in the Modern Age is complex and ever-changing;
+rules/best practices can only exist for a certain time/subgroup
+
+===== Social Sciences =====
+-> e.g. psychology, communication studies
+-> Theory of the 2nd order - by "other" theoreticans
+-> examine the influence of games on players
+-> What are the effects of games?
+
+Problem: error-prone, empiric research with little groups;
+focus only on players, not game itself
+
+===== Human Sciences =====
+-> Theory of the 3rd order - by "expert" theoreticans
+-> examine aesthetic & cultural meaning of games
+->Gamification of Teaching & Research
+-> Linkage of Theory & Practice
+
+
+
+//The knowledge gained from Game Studies can be used for example to help with the creation process of games.//
+//By abstrahizing we allow for artistic creation that goes beyond the replication of the known and successful and create something truly unique.//
